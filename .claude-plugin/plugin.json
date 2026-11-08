@@ -1,0 +1,5 @@
+{
+  "name": "tgram",
+  "version": "0.1.0",
+  "description": "Read Telegram chats and send messages through the user's own account, only on explicit request."
+}

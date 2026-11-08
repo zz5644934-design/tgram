@@ -1,0 +1,11 @@
+{
+  "name": "tgram",
+  "owner": { "name": "zz5644934-design" },
+  "plugins": [
+    {
+      "name": "tgram",
+      "source": "./",
+      "description": "Read your Telegram chats and send messages from your own account, only when you ask."
+    }
+  ]
+}
